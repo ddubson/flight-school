@@ -2,7 +2,7 @@ resources:
 - name: flight-school
   type: git
   source:
-    uri: file:///flight-school-git-repo
+    uri: file:///vagrant/flight-school
     branch: master
 
 jobs:
